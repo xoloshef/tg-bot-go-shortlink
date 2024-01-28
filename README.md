@@ -21,7 +21,3 @@ telegram bot на выход дает
 Ссылки
 * стороняя библеотека от сообщества - https://github.com/go-telegram-bot-api/telegram-bot-api
 * 
-
-module https://github.com/xoloshef/tg-bot-go-shortlink
-
-go 1.21
